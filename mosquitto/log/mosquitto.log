@@ -25,3 +25,4 @@
 1731058934: New connection from 172.19.0.1:56214 on port 1883.
 1731058934: New client connected from 172.19.0.1:56214 as mqttjs_f4601d44 (p2, c1, k60).
 1731058939: Client mqttjs_f4601d44 disconnected.
+1731059247: Saving in-memory database to /mosquitto/data//mosquitto.db.
