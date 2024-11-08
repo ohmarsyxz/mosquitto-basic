@@ -1,0 +1,27 @@
+1731057446: mosquitto version 2.0.20 starting
+1731057446: Config loaded from /mosquitto/config/mosquitto.conf.
+1731057446: Opening ipv4 listen socket on port 1883.
+1731057446: mosquitto version 2.0.20 running
+1731057485: New connection from 172.19.0.1:61368 on port 1883.
+1731057485: New client connected from 172.19.0.1:61368 as mqttx_52e78607 (p5, c1, k60).
+1731058152: New connection from 172.19.0.1:63440 on port 1883.
+1731058152: New client connected from 172.19.0.1:63440 as mqttjs_3471fece (p2, c1, k60).
+1731058157: Client mqttjs_3471fece disconnected.
+1731058402: Client mqttx_52e78607 disconnected.
+1731058425: New connection from 172.19.0.1:62020 on port 1883.
+1731058425: New client connected from 172.19.0.1:62020 as mqttx_52e78607 (p5, c1, k60).
+1731058474: New connection from 172.19.0.1:62314 on port 1883.
+1731058474: New client connected from 172.19.0.1:62314 as mqttjs_8a6aba66 (p2, c1, k60).
+1731058479: Client mqttjs_8a6aba66 disconnected.
+1731058788: New connection from 172.19.0.1:58604 on port 1883.
+1731058788: New client connected from 172.19.0.1:58604 as mqttjs_44deb62c (p2, c1, k60).
+1731058793: Client mqttjs_44deb62c disconnected.
+1731058820: Client mqttx_52e78607 has exceeded timeout, disconnecting.
+1731058824: New connection from 172.19.0.1:55526 on port 1883.
+1731058824: New client connected from 172.19.0.1:55526 as mqttx_52e78607 (p5, c1, k60).
+1731058859: New connection from 172.19.0.1:58508 on port 1883.
+1731058859: New client connected from 172.19.0.1:58508 as mqttjs_89f0ff8d (p2, c1, k60).
+1731058864: Client mqttjs_89f0ff8d disconnected.
+1731058934: New connection from 172.19.0.1:56214 on port 1883.
+1731058934: New client connected from 172.19.0.1:56214 as mqttjs_f4601d44 (p2, c1, k60).
+1731058939: Client mqttjs_f4601d44 disconnected.
